@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=497
+
+Highlight config files for the Waimea window manager (http://www.waimea.org).  You can see a screenshot at (http://students.cs.byu.edu/~mtb6/waimea_config.png).  It is not finished.  I have the the menu files and style files highlighted.  They aren't that great yet, but since there is a complete lack of highlighting files for Waimea config, I thought I would release this really early.  Enjoy!  And please feel free to send me feedback.
+
+NOTE!
+I was contacted by the author of waimea, and he informed me that style and menu files will be changing in the near future, so I have not put any more effort into this syntax file.  If there is a demand to make it complete for waimea 0.4.0 then let me know and I will certainly do so.
